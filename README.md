@@ -19,3 +19,4 @@
       
       output will be here `cocoapods/pods_index.json`
 5. Generate SPM manifest file using `spm_generation.py spm -for_project path_to_project_containing_podspec_file`
+6. For private cocoa pod repositories edit the `cocoapods/pods_private_index.json` file with the correct infomation
