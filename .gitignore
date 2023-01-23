@@ -1,0 +1,16 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+podspec_analyser/parser.out
+podspec_analyser/parsetab.py
+podfile_analyser/parser.out
+podfile_analyser/parsetab.py
+#cocoapods/*.json
+venv/
+.idea/

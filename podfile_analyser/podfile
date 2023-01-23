@@ -1,0 +1,4 @@
+#
+# paste here your podfile in order to debug the podfile_analyser module
+# you can debug the lexer and yacc files individually
+#

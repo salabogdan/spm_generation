@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Private_Project",
+    "source": {
+      "git": "https://private_project_git_url",
+      "branch": "private_branch_supporting_spm"
+    },
+    "has_spm": true
+  }
+]
