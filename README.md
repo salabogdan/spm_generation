@@ -1,6 +1,6 @@
 # SPM Generation 
  
-**This project was designed to help easily migrate a project form cocoapods to swift package manager.**
+**This project was designed to help easily migrate a project from cocoapods to swift package manager.**
 ### Functionalities: 
 1. Based on a podspec file it will generate a swift package manifest file. 
 
